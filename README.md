@@ -1,1 +1,1 @@
-Java server app that notifies a client with a message at a specified time. It handles multiple clients using queue mechanism.
+Java server app that sends notifications at a specified time. It handles multiple clients using queue mechanism.
